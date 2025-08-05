@@ -19,7 +19,7 @@
     "freecodecamp"
   ],
   "author": "John Doe",
-  "license": "ISC",
+  "license": "MIT",
   "type": "commonjs",
   "bugs": {
     "url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
