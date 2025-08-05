@@ -13,7 +13,11 @@
   },
   "version": "1.0.0",
   "description": "a project that make something",
-  "keywords": [],
+  "keywords": [
+    "testing",
+    "description",
+    "freecodecamp"
+  ],
   "author": "John Doe",
   "license": "ISC",
   "type": "commonjs",
